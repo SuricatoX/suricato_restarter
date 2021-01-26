@@ -6,7 +6,7 @@ local suricato = {
 	['notify-noargs'] = {eventname = 'Notify', secondarg = 'negado', content = 'Sem argumentos para o seu comando!'},
 	['permission-check'] = 'admin.permissao',
 	['commands'] = {startscript = 'iniciar', stopscript = 'parar', restartscript = 'reiniciar'},
-    ['print-console-cmd'] = 'Seu comando não possui argumentos!'
+    	['print-console-cmd'] = 'Seu comando não possui argumentos!'
     
 
 }
